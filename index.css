@@ -1,0 +1,14 @@
+body{
+    background-color: lightcyan;
+}
+hr{
+   
+    height: 2px;
+    width: 30%;
+    border-style:dotted none none;
+    border-width: 5px;
+    border-color: aqua;
+}
+h1,h3{
+    color: greenyellow;
+}
